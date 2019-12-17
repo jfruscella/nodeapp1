@@ -12,4 +12,8 @@ Example: git branch
               master
 created a few files and saved them
 git add -A
-git commit -m ""              
+git commit -m ""  
+git checkout master   to go back to the master branch    
+git merge index.html_and_index.js ---take all files form branch and puts into master branch    
+git push -u origin master
+git push --all origin 
