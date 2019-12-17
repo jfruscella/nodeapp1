@@ -10,3 +10,6 @@ git branch --to show which branch you are in
 Example: git branch
  returns      * index.html_and_index.js
               master
+created a few files and saved them
+git add -A
+git commit -m ""              
